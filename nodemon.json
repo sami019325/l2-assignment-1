@@ -1,0 +1,7 @@
+{
+    "watch": [
+        "assignment1/ts"
+    ],
+    "ext": "ts",
+    "exec": "tsx assignment1/ts/problem-1.ts"
+}

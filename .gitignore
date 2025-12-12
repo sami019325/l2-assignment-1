@@ -1,0 +1,11 @@
+# This file is used to ignore certain files and directories in Git
+# Add files and directories that you want Git to ignore below
+node_modules/
+.env
+.vscode/
+.package.json
+.package-lock.json
+.nodemon.json
+
+
+
